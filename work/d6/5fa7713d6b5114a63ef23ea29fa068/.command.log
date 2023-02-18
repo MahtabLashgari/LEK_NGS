@@ -1,0 +1,13 @@
+--2023-02-18 18:57:55--  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=U81989&rettype=fasta&retmode=text
+Resolving eutils.ncbi.nlm.nih.gov (eutils.ncbi.nlm.nih.gov)... 130.14.29.110, 2607:f220:41e:4290::110
+Connecting to eutils.ncbi.nlm.nih.gov (eutils.ncbi.nlm.nih.gov)|130.14.29.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘U81989.fasta’
+
+     0K .                                                      12,7M=0s
+
+2023-02-18 18:58:01 (12,7 MB/s) - ‘U81989.fasta’ saved [1779]
+
+cp: '.command.out' and '/home/cq/LEK-NGS/work/d6/5fa7713d6b5114a63ef23ea29fa068/.command.out' are the same file
+cp: '.command.err' and '/home/cq/LEK-NGS/work/d6/5fa7713d6b5114a63ef23ea29fa068/.command.err' are the same file
