@@ -1,1 +1,0 @@
-2023-02-18 18:57:53	12.2s	pensive_cuvier	OK	feae876c752634cdc933d15936b9be52	bb1e1eac-f1f4-49cc-a957-29ed5858b6c2	nextflow run LEK_NGS-final.nf --accession U81989 -profile singularity
